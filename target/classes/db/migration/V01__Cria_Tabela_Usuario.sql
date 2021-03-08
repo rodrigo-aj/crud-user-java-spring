@@ -5,3 +5,7 @@
   profissao varchar(350) not null
 
 ) engine=InnoDB default charset=utf8;
+
+INSERT INTO usuario.usuario
+(nome, idade, profissao)
+VALUES('rodrigo', 24, 'developer');

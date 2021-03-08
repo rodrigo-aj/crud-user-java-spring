@@ -1,1 +1,4 @@
 /home/rodrigo/java-workspace/estudos/crud-user-java-spring/src/main/java/com/rodrigo/crud/CrudApplication.java
+/home/rodrigo/java-workspace/estudos/crud-user-java-spring/src/main/java/com/rodrigo/crud/repository/UsuarioRepository.java
+/home/rodrigo/java-workspace/estudos/crud-user-java-spring/src/main/java/com/rodrigo/crud/resource/UsuarioResource.java
+/home/rodrigo/java-workspace/estudos/crud-user-java-spring/src/main/java/com/rodrigo/crud/model/Usuario.java
